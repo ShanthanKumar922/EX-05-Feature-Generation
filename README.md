@@ -20,8 +20,8 @@ Save the data to the file
 
 ## CODE
 ```
-Program Developed: Dharshini D.S
-Register number:212221230022
+Program Developed: O. Shanthan Kumar Reddy
+Register number:212220040107
 ```
 ### Data.csv:
 ```
